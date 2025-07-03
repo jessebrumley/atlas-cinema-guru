@@ -1,4 +1,4 @@
-## Atlas Cinema Guru
+npx au## Atlas Cinema Guru
 
 This is the starter template for the Atlas Cinema Guru project. It contains the starting code for the movie database application.
 
