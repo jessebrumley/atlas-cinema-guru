@@ -5,7 +5,8 @@ This is the starter template for the Atlas Cinema Guru project. It contains the 
 ![](./images/task-2-a.png)
 
 ### Getting Started
-
+- Visit this app at https://atlas-cinema-guru-six.vercel.app/
+- Or run it locally:
 - Run `npm install` to install dependencies
 - Run `npm run dev` to start the dev server
 - Open http://localhost:3000 in a browser
